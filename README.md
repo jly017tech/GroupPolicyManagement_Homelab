@@ -11,6 +11,8 @@
 <ul>
   <li>Computer Configuration: apply to the local computer, and do not change per user</li>
   <li>User Configuration: apply to users on the local computer</li>
+  <li>Comuter (Policies): the users can't change anything in the password policies, account lockout policies</li>
+  <li>User (Preferences): the users can allow such as uploading their own wallpaper for their desktop base on the policy rule by the administrator.</li>
 </ul>
 
 <h2>Group Policy </h2>
