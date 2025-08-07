@@ -34,3 +34,25 @@
 <p>I changed maximum password age at 90 days and minimum password age at 30 days and configured password complexity requirements enable</p>
 
 <img width="1381" height="662" alt="image" src="https://github.com/user-attachments/assets/b7482802-75a0-4467-aae0-a52557b80ce2" />
+
+
+<br>
+<hr>
+
+<h3>Drive mapping</h3>
+<p>Objective: Map network drives for users when they log in</p>
+
+
+<img width="1381" height="662" alt="image" src="https://github.com/user-attachments/assets/b2a4532b-371b-4073-afc4-9d4fdf5d08c3" />
+
+<p>I went through from preferences to the Windows Settings under User Configuration</p>
+
+<img width="1381" height="662" alt="image" src="https://github.com/user-attachments/assets/0b507d92-3c4e-4a0f-aad1-67ba1d4872f6" />
+
+
+<img width="1381" height="662" alt="image" src="https://github.com/user-attachments/assets/6189ec6f-461b-47d4-86e7-c62a65d0be56" />
+
+<img width="1381" height="662" alt="image" src="https://github.com/user-attachments/assets/53e2d303-77c9-4b06-8bcb-2529136810e3" />
+
+
+
