@@ -15,5 +15,5 @@
   <li>User (Preferences): the users can allow such as uploading their own wallpaper for their desktop base on the policy rule by the administrator.</li>
 </ul>
 
-<h2>Group Policy </h2>
+<h2>Group Policy Management </h2>
 <img width="1381" height="662" alt="image" src="https://github.com/user-attachments/assets/2e560544-29ca-4af4-abff-7db4b3f03407" />
