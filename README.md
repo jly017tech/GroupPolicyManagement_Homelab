@@ -49,8 +49,13 @@
 
 <img width="1381" height="662" alt="image" src="https://github.com/user-attachments/assets/0b507d92-3c4e-4a0f-aad1-67ba1d4872f6" />
 
+<br>
+
+<!--Adding to the network server path to the folder-->
 
 <img width="1381" height="662" alt="image" src="https://github.com/user-attachments/assets/6189ec6f-461b-47d4-86e7-c62a65d0be56" />
+
+<br>
 
 <img width="1381" height="662" alt="image" src="https://github.com/user-attachments/assets/53e2d303-77c9-4b06-8bcb-2529136810e3" />
 
